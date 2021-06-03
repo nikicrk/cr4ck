@@ -1,6 +1,6 @@
 ````
-Author : Muhammad Rizky
-Recode : Romi Afrizal
+Author : ARISMUNANDAR30
+Recode :  ARISMUNANDAR30
 ````
 ## PERINTAH
 ````bash
