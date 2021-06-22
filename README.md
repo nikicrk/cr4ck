@@ -9,10 +9,10 @@ pkg install git
 pkg install python2 
 pip2 install requests
 pip2 install mechanize 
-git clone https://github.com/Mark-Zuck/cr4ck
-cd cr4ck
+git clone https://github.com/nikicrk/cr5ck
+cd cr5ck
 ls 
-python2 cr4ck.py
+python2 cr5ck.py
 ````
 Script ini di tulis oleh Muhammad Rizky. Saya hanya ingin melanjutkan saja karna script ini sudah tidak ada lagi.
 #
